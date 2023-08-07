@@ -1,0 +1,22 @@
+c:\users\win10\documents\visual studio 2012\Projects\VB-GWA-Calculator\VB-GWA-Calculator\bin\Debug\VB-GWA-Calculator.exe.config
+c:\users\win10\documents\visual studio 2012\Projects\VB-GWA-Calculator\VB-GWA-Calculator\bin\Debug\VB-GWA-Calculator.exe
+c:\users\win10\documents\visual studio 2012\Projects\VB-GWA-Calculator\VB-GWA-Calculator\bin\Debug\VB-GWA-Calculator.pdb
+c:\users\win10\documents\visual studio 2012\Projects\VB-GWA-Calculator\VB-GWA-Calculator\bin\Debug\VB-GWA-Calculator.xml
+c:\users\win10\documents\visual studio 2012\Projects\VB-GWA-Calculator\VB-GWA-Calculator\obj\Debug\VB_GWA_Calculator.Frm_GWA.resources
+c:\users\win10\documents\visual studio 2012\Projects\VB-GWA-Calculator\VB-GWA-Calculator\obj\Debug\VB_GWA_Calculator.Resources.resources
+c:\users\win10\documents\visual studio 2012\Projects\VB-GWA-Calculator\VB-GWA-Calculator\obj\Debug\VB-GWA-Calculator.vbproj.GenerateResource.Cache
+c:\users\win10\documents\visual studio 2012\Projects\VB-GWA-Calculator\VB-GWA-Calculator\obj\Debug\VB-GWA-Calculator.exe
+c:\users\win10\documents\visual studio 2012\Projects\VB-GWA-Calculator\VB-GWA-Calculator\obj\Debug\VB-GWA-Calculator.xml
+c:\users\win10\documents\visual studio 2012\Projects\VB-GWA-Calculator\VB-GWA-Calculator\obj\Debug\VB-GWA-Calculator.pdb
+E:\_School-related\VB-GWA-Calculator\VB-GWA-Calculator\bin\Debug\VB-GWA-Calculator.exe.config
+E:\_School-related\VB-GWA-Calculator\VB-GWA-Calculator\bin\Debug\VB-GWA-Calculator.exe
+E:\_School-related\VB-GWA-Calculator\VB-GWA-Calculator\bin\Debug\VB-GWA-Calculator.pdb
+E:\_School-related\VB-GWA-Calculator\VB-GWA-Calculator\bin\Debug\VB-GWA-Calculator.xml
+E:\_School-related\VB-GWA-Calculator\VB-GWA-Calculator\obj\Debug\VB-GWA-Calculator.vbproj.AssemblyReference.cache
+E:\_School-related\VB-GWA-Calculator\VB-GWA-Calculator\obj\Debug\VB_GWA_Calculator.Frm_GWA.resources
+E:\_School-related\VB-GWA-Calculator\VB-GWA-Calculator\obj\Debug\VB_GWA_Calculator.Resources.resources
+E:\_School-related\VB-GWA-Calculator\VB-GWA-Calculator\obj\Debug\VB-GWA-Calculator.vbproj.GenerateResource.cache
+E:\_School-related\VB-GWA-Calculator\VB-GWA-Calculator\obj\Debug\VB-GWA-Calculator.vbproj.CoreCompileInputs.cache
+E:\_School-related\VB-GWA-Calculator\VB-GWA-Calculator\obj\Debug\VB-GWA-Calculator.exe
+E:\_School-related\VB-GWA-Calculator\VB-GWA-Calculator\obj\Debug\VB-GWA-Calculator.xml
+E:\_School-related\VB-GWA-Calculator\VB-GWA-Calculator\obj\Debug\VB-GWA-Calculator.pdb
